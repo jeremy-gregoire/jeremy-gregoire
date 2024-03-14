@@ -3,5 +3,5 @@
 <description>
   
 ## Skills
-  
-![Test] (/assets/html5.svg)
+
+<img src="html5.svg" alt="Test" />
