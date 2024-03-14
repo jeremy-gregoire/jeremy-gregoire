@@ -4,4 +4,4 @@
   
 ## Skills
   
-![Logo HTML] (/html5.svg)
+![Test] (/assets/html5.svg)
