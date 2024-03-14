@@ -1,4 +1,4 @@
-#### Jérémy GRÉGOIRE
+# Jérémy GRÉGOIRE
 
 
 - 👋 Hi, I’m @jeremy-gregoire
